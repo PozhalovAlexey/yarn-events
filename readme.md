@@ -1,1 +1,1 @@
-## ссылка на gh pages - 
+## ссылка на gh pages - https://pozhalovalexey.github.io/yarn-events/
